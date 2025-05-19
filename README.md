@@ -62,8 +62,4 @@ python src/main.py --mode visualize
 
 ## Auteurs
 
-[Votre Nom]
-
-## Licence
-
-Ce projet est sous licence [Licence] - voir le fichier LICENSE pour plus de détails. 
+Anas AIT ALI
